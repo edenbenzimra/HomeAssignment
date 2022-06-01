@@ -1,0 +1,14 @@
+﻿  question01.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\numeric(34,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\edenbenzimra\source\repos\question01\homeassignment\question01.cpp(35): message : see reference to function template instantiation '_Ty std::accumulate<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::vector<uint64_t,std::allocator<uint64_t>>>>>,int,count_total_elements::<lambda_005edaca3a9459d99f1ab41e69928f25>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::vector<uint64_t,std::allocator<uint64_t>>>>>,
+              _Fn=count_total_elements::<lambda_005edaca3a9459d99f1ab41e69928f25>
+          ]
+  homeassignment.vcxproj -> C:\Users\edenbenzimra\source\repos\question01\x64\Debug\homeassignment.exe

@@ -1,0 +1,12 @@
+﻿  question01.cpp
+C:\Users\edenbenzimra\source\repos\question01\homeassignment\question01.cpp(63,32): warning C4244: 'initializing': conversion from '_Rep' to 'size_t', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating code
+  Finished generating code
+  2 of 170 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  homeassignment.vcxproj -> C:\Users\edenbenzimra\source\repos\question01\Release\homeassignment.exe

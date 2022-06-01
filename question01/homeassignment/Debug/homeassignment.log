@@ -1,0 +1,7 @@
+﻿  question01.cpp
+C:\Users\edenbenzimra\source\repos\question01\homeassignment\question01.cpp(142,32): warning C4244: 'initializing': conversion from '_Rep' to 'size_t', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  homeassignment.vcxproj -> C:\Users\edenbenzimra\source\repos\question01\Debug\homeassignment.exe
