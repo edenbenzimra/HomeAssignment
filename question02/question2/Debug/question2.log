@@ -1,0 +1,4 @@
+﻿  question2.cpp
+C:\Users\edenbenzimra\source\repos\question2\question2\question2.cpp(17,49): warning C4305: 'initializing': truncation from 'unsigned __int64' to 'const size_t'
+C:\Users\edenbenzimra\source\repos\question2\question2\question2.cpp(17,33): warning C4309: 'initializing': truncation of constant value
+  question2.vcxproj -> C:\Users\edenbenzimra\source\repos\question2\Debug\question2.exe
