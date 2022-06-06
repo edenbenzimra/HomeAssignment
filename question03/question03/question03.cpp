@@ -47,11 +47,7 @@ void dispacher_thread() {
 	//Waiting for wt1 & wt2 to finish is not allowed, dispacher_thread should exit after creating wt1 and wt2
 	wt1.detach();
 	wt2.detach();
-	/*if (payload) {
-		std::cout << "not deleted yet";
-	}*/
-	/*payload.reset();
-	std::cout << "count=" << payload.use_count();*/
+	
 }
 
 int main(int argc, char** argv)
